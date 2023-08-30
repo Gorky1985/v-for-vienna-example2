@@ -14,7 +14,7 @@ Design ideas from Video Course made by Morten Rand-Hendriksen.
 ## Screenshots 📺
 
 <p align="center">
-    <img src="https://github.com/Gorky1985/v-for-vienna-example1/blob/master/images/Screenshot&2023-08-30&101202?raw=true" alt="Screenshot of website">
+    <img src="https://github.com/Gorky1985/v-for-vienna-example2/blob/main/images/Screenshot%202023-08-30%20101202.png?raw=true" alt="Screenshot of website">
 </p>
 
 ## Installation 💾
